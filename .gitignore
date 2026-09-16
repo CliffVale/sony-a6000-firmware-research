@@ -1,0 +1,15 @@
+# Binary files
+*.bin
+*.fw
+*.img
+*.dat
+*.hex
+
+# Temporary
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
